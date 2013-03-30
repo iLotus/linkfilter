@@ -5,5 +5,3 @@ overlay chrome://browser/content/browser.xul chrome://linkfilter/content/directa
 skin linkfilter classic/1.0 skin/classic/
 style chrome://browser/content/browser.xul chrome://linkfilter/skin/toolbar.css
 style chrome://global/content/customizeToolbar.xul chrome://linkfilter/skin/toolbar.css
-
-locale linkfilter  ja-JP locale/ja-JP/
