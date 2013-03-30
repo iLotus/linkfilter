@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+<Description about="urn:mozilla:install-manifest">
+	<em:id>linkfilter@linknetxu.com</em:id>
+	<em:version>1.0.2</em:version> 
+	<em:type>2</em:type>
+	<em:targetApplication>
+		<Description>
+			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> 
+			<em:minVersion>9.0</em:minVersion> 
+			<em:maxVersion>22.0</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+	<em:name>LinkFilter</em:name>
+	<em:description>
+			2ちゃんねるでリンクや画像に設定された外部サイトへのリダイレクトを除去します。
+			本当のリンク先を表示して、リダイレクトを経由せずに直接その URL へ移動できます。
+	</em:description>
+	<em:creator>Lotus</em:creator>
+	<em:homepageURL>http://www.linknextu.com/linkfilter/</em:homepageURL>
+	<em:iconURL>chrome://linkfilter/content/icon.png</em:iconURL>
+	
+	
+</Description>
+</RDF>

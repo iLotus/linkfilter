@@ -1,0 +1,7 @@
+#adsblocker-toolbarbutton {
+  list-style-image: url("chrome://linkfilter/skin/icon.png");
+}
+
+toolbar[iconsize="small"] adsblocker-toolbarbutton{
+ list-style-image: url("chrome://linkfilter/skin/icon.png");
+}
